@@ -1,0 +1,19 @@
+# Environnement Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Secrets éventuels
+.env
+
+# Données générées (reproductibles en relançant le notebook)
+resultats_pdf/
+chroma_pdf/
+
+# Supports de cours du professeur (non redistribués)
+Part 2*.pdf
+rag_multimodal_agentique.ipynb
+tableau.jpg
+
+# macOS
+.DS_Store
